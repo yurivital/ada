@@ -1,0 +1,33 @@
+body {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(255, 255, 255, 1) 30%, rgba(255, 255, 255, 1) 70%, rgba(2, 0, 36, 1) 100%);
+    color: var(--dark-grey);
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+    width: 100%;
+}
+
+p,
+h1 {
+    padding: 0.5rem 1rem;
+}
+
+
+h3 {
+    font-style: italic;
+}
+
+h3::before {
+    content: "👉 ";
+}
