@@ -14,7 +14,7 @@ Contacts :
 - [par e-mail](mailto:vital.systm@gmail.com)
 - [via la Chapelle](https://www.lachapelle.work/#events)
 
-## 📆 Prochaines dates et sujets
+## 📆 Prochaines sessions
 
 ### Dockeriser vos applications
 
@@ -30,7 +30,7 @@ Contacts :
 
 ### Coding Dojo - Test Driven Development (TDD)
 
-**Quand** : Mercredi 30 Novembre 2022, de 19h30 à 23h00.
+**Quand** : Mercredi 23 Novembre 2022, de 19h30 à 23h00.
 
 **Où** : [La Chapelle 2.0, 15 rue Sadi Carnot, 07100 Annonay](https://goo.gl/maps/TV4A3xtCcQDWNDC16).
 
