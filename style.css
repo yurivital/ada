@@ -1,11 +1,25 @@
 body {
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-    background: rgb(2, 0, 36);
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(255, 255, 255, 1) 30%, rgba(255, 255, 255, 1) 70%, rgba(2, 0, 36, 1) 100%);
-    color: var(--dark-grey);
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+        background: rgb(2, 0, 36);
+        background: linear-gradient(90deg, rgb(95, 95, 98) 0%, rgba(255, 255, 255, 1) 30%, rgba(240, 240, 240, 1) 70%, rgb(95, 95, 98) 100%);
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+
+    body {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        background: rgba(230, 230, 230, 1);
+    }
 }
 
 h1,
