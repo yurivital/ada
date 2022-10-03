@@ -28,6 +28,13 @@ Contacts :
 - Faire du multi-staged build pour optimiser les images docker
 - Crée un environnement grâce à docker compose
 
+**Inscription**: 
+
+- Frais : gratuit 
+- [A travers la chapelle 2.0](https://www.lachapelle.work/produit/afterwork-geek/)
+
+----
+
 ### Coding Dojo - Test Driven Development (TDD)
 
 **Quand** : Mercredi 23 Novembre 2022, de 19h30 à 23h00.
@@ -38,6 +45,13 @@ Contacts :
 
 - Lors de cette session nous alons aborder un Kata permettant
   de poser les bases et concepts du TDD.
+
+**Inscription**: 
+
+- Frais : gratuit 
+- [A travers la chapelle 2.0](https://www.lachapelle.work/produit/afterwork-geek/)
+
+----
 
 ### Instrumenter une application avec ELK
 
@@ -51,3 +65,10 @@ Contacts :
 - La production de logs à travers un framework de logging
 - La collecte de données avec logstash
 - Le troubleshooting et la production de rapports avec Kibana.
+
+**Inscription**: 
+
+- Frais : gratuit 
+- [A travers la chapelle 2.0](https://www.lachapelle.work/produit/afterwork-geek/)
+
+----
