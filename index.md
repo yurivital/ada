@@ -17,24 +17,6 @@ Contacts :
 
 ## 📆 Prochaines dates et sujets
 
-### Coding Dojo - Test Driven Development (TDD)
-
-**Quand** : Mercredi 23 Novembre 2022, de 19h30 à 23h00.
-
-**Où** : [La Chapelle 2.0, 15 rue Sadi Carnot, 07100 Annonay](https://goo.gl/maps/TV4A3xtCcQDWNDC16).
-
-**Contenu :**
-
-- Lors de cette session nous alons aborder un Kata permettant
-  de poser les bases et concepts du TDD.
-
-**Inscription**: 
-
-- Frais : gratuit 
-- [A travers la chapelle 2.0](https://www.lachapelle.work/produit/afterwork-geek/)
-
-----
-
 ### Instrumenter une application avec ELK
 
 **Quand** : Mecredi 14 décembre 2022, de 19h30 à 23h00.
@@ -53,6 +35,8 @@ Contacts :
 
 - Frais : gratuit 
 - [A travers la chapelle 2.0](https://www.lachapelle.work/produit/afterwork-geek/)
+
+### ℹ️ Séances pour 2023 en cours d'élaboration  
 
 ----
 
