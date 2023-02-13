@@ -5,10 +5,6 @@
 Groupe de rencontre et d'échange entre développeurs sur Annonay,
 nous organisons des ateliers mensuels thématiques sur des technologie et des techniques de développement.
 
-Nous alternons entre un coding dojo et une présentation d'une stack techno.
-
-Organisés de préférence tous les derniers mecredi du mois à la Chapelle 2.0.
-
 Contacts :
 
 - [par e-mail](mailto:vital.systm@gmail.com)
@@ -17,18 +13,32 @@ Contacts :
 
 ## 📆 Prochaines dates et sujets
 
-### Instrumenter une application avec ELK
 
-**Quand** : Mecredi 14 décembre 2022, de 19h30 à 23h00.
+### Découverte de Laravel et Ruby On Rails
+
+**Quand** : Jeudi 02 février 2023, de 19h30 à 23h00.
 
 **Où** : [La Chapelle 2.0, 15 rue Sadi Carnot, 07100 Annonay](https://goo.gl/maps/TV4A3xtCcQDWNDC16).
 
 **Contenu :**
 
-- Découverte de Elastic Logstash Kibana
-- La production de logs à travers un framework de logging
-- La collecte de données avec logstash
-- Le troubleshooting et la production de rapports avec Kibana.
+- Lors de cette session nous allons découvrir les avantages et inconvénients de chacun des frameworks et comprendre comment les exploiter pour le développement d'application
+
+**Inscription**: 
+
+- Frais : gratuit 
+- [A travers la chapelle 2.0](https://www.lachapelle.work/produit/afterwork-geek/)
+
+
+### Découverte de Python Django 
+
+**Quand** : Mercredi 22 mars 2023, de 19h30 à 23h00.
+
+**Où** : [La Chapelle 2.0, 15 rue Sadi Carnot, 07100 Annonay](https://goo.gl/maps/TV4A3xtCcQDWNDC16).
+
+**Contenu :**
+
+- Dans la continuité des ateliers Laravel / Ruby On Rails, nous abordons un framework web supplementaire afin de comprendre comment l'exploiter pour le développement d'application.
 
 
 **Inscription**: 
@@ -36,7 +46,16 @@ Contacts :
 - Frais : gratuit 
 - [A travers la chapelle 2.0](https://www.lachapelle.work/produit/afterwork-geek/)
 
-### ℹ️ Séances pour 2023 en cours d'élaboration  
+
+### Découverte de RabbitMQ
+
+**Quand** : Mercredi 19 avril 2023, de 19h30 à 23h00.
+
+**Où** : [La Chapelle 2.0, 15 rue Sadi Carnot, 07100 Annonay](https://goo.gl/maps/TV4A3xtCcQDWNDC16).
+
+**Contenu :**
+
+-  Lors de cette session nous allons découvrir les concepts de l'agent de message Open Source RabbitMQ et voir comment l'utiliser pour réaliser des applications "event-driven". 
 
 ----
 
